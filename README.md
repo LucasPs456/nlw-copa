@@ -4,7 +4,7 @@
 
 Projeto construído do evento NLW copa.
 
-[🔗 Clique aqui para acessar](https://github.com/LukacLeDev/nlw-copa)
+[🔗 Clique aqui para acessar](https://lukacledev.github.io/nlw-copa/)
 
 ## 🛠 Tecnologias
 
